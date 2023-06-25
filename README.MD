@@ -4,7 +4,6 @@ Tic-Tac-Toe implica un gran desafío a la hora de manejar estados en React, y me
 
 ## Características
 
-- Interfaz de usuario pensada 100% para **Mobile Designe**
 - Juega contra otro jugador en el mismo dispositivo.
 - Sonidos divertidos para los clics y los resultados del juego.
 - Indicador del turno del jugador actual.
