@@ -30,3 +30,9 @@ Tic-Tac-Toe implica un gran desafío a la hora de manejar estados en React, y me
 git clone https://github.com/tu-usuario/tic-tac-toe.git
 ```
 Ten en cuenta que vite está configurado en este proyecto para correr en el puerto 3000.
+
+
+## Proyeto Deployed:
+
+
+[https://tic-tac-oceas61aa-fabicoseglia.vercel.app/](https://tic-tac-oceas61aa-fabicoseglia.vercel.app/)
