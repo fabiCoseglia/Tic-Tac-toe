@@ -34,4 +34,4 @@ Ten en cuenta que vite está configurado en este proyecto para correr en el puer
 ## Proyeto Deployed:
 
 
-[https://tic-tac-oceas61aa-fabicoseglia.vercel.app/](https://tic-tac-oceas61aa-fabicoseglia.vercel.app/)
+[https://tic-tac-toe-pearl-nu.vercel.app/](https://tic-tac-toe-pearl-nu.vercel.app/)
