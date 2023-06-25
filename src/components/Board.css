@@ -1,0 +1,36 @@
+
+  .board-row {
+    display: flex;
+  }
+  
+  .resultAlert{
+    font-size: 32px;
+    color: rgb(255, 94, 0);
+    text-align: center;
+  }
+  
+  .reset {
+    display: inline;
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    padding: 5px;
+    border-radius: 25px;
+    width: 100px;
+    cursor: pointer;
+    font-size: 15px;
+  }
+
+  .alertContainer{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  .reset:hover{
+    background-color: rgb(247, 223, 195);
+  }
+
+  .alertTurn{
+    color: rgb(255, 94, 0);
+    align-self: center;
+  }

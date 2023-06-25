@@ -1,0 +1,18 @@
+.square {
+    width: 100px;
+    height: 100px;
+    background-color: #2132f4;
+    border: 3px solid #031f34;
+    border-radius: 25px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 48px;
+    cursor: pointer;
+    margin: 0px;
+    font-family: 'Concert One' ,'Sans-Serif';
+  }
+  
+  .square:hover {
+    background-color: #3d4cf3;
+  }

@@ -1,0 +1,10 @@
+.layout{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 80vh;
+    flex-direction: column;
+}
+h1{
+    letter-spacing: 5px;
+}
