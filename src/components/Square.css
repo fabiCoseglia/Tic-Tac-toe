@@ -1,13 +1,13 @@
 .square {
-    width: 100px;
-    height: 100px;
+    width: 9vh;
+    height: 9vh;
     background-color: #2132f4;
-    border: 3px solid #031f34;
-    border-radius: 25px;
+    border: 0.5vh solid #031f34;
+    border-radius: 2vh;
     display: flex;
     justify-content: center;
     align-items: center;
-    font-size: 48px;
+    font-size: 5vh;
     cursor: pointer;
     margin: 0px;
     font-family: 'Concert One' ,'Sans-Serif';
